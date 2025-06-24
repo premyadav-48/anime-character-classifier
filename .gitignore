@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment folders
+tf-env/
+
+# Data and model files (usually large, exclude unless you want to push them)
+data/
+models/
+logs/
+archive.zip
+
+# OS files
+.DS_Store
+Thumbs.db
